@@ -1,5 +1,10 @@
 package com.iesvirgendelcarmen.colecciones.teoria;
 import java.util.Scanner;
+/**
+ * 
+ * @author Izan
+ *
+ */
 
 public class ArrayBidimensional {
 

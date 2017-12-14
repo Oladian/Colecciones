@@ -1,5 +1,10 @@
 package com.iesvirgendelcarmen.colecciones.teoria;
 import java.util.Scanner;
+/**
+ * 
+ * @author Izan
+ *
+ */
 public class EjemploArray {
 	public static void main(String[] args) {
 		final int NUMERO_DE_ELEMENTOS = 10;
