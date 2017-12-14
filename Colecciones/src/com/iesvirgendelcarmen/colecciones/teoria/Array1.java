@@ -1,7 +1,11 @@
 package com.iesvirgendelcarmen.colecciones.teoria;
 
 import java.util.Arrays;
-
+/**
+ * 
+ * @author Izan
+ *
+ */
 public class Array1 {
 
 	public static void main(String[] args) {
