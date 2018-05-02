@@ -5,7 +5,7 @@ public class Listas {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ArrayList<String> listaCadenas = new ArrayList();
+		ArrayList<String> listaCadenas = new ArrayList<String>();
 		listaCadenas.add("Juan");
 		listaCadenas.add("Pedro");
 		listaCadenas.add("Pepe");
